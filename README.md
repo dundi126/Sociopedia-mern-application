@@ -1,6 +1,6 @@
 # FullStack Social Media App
 
-This repository contains the source code for NodeLink a Social Media Application built using the MERN Stack (MongoDB, Express.js, ReactJs, and Node.js). This project demonstrates the implementation of a scalable and robust web application that supports user authentication, post creation, and basic social media interactions like commenting and liking.
+This repository contains the source code for Sociopedia a Social Media Application built using the MERN Stack (MongoDB, Express.js, ReactJs, and Node.js). This project demonstrates the implementation of a scalable and robust web application that supports user authentication, post creation, and basic social media interactions like commenting and liking.
 
 🛠 Features
 
